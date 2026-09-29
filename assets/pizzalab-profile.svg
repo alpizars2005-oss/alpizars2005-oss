@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Angel Alfredo — PizzaLab profile header</title>
+  <desc id="desc">A dark technical control-center panel introducing Angel Alfredo, a Computer Systems Engineering student focused on software, automation, Linux, infrastructure, and homelab work.</desc>
+
+  <rect width="1200" height="360" rx="18" fill="#0D1117"/>
+  <rect x="1" y="1" width="1198" height="358" rx="17" fill="none" stroke="#343B46" stroke-width="2"/>
+
+  <path d="M0 48H1200" stroke="#343B46" stroke-width="1"/>
+  <circle cx="28" cy="24" r="5" fill="#FF9B63"/>
+  <circle cx="46" cy="24" r="5" fill="#343B46"/>
+  <circle cx="64" cy="24" r="5" fill="#343B46"/>
+  <text x="88" y="30" fill="#B8C7E0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="1.2">PIZZALAB // PROFILE CONTROL CENTER</text>
+  <text x="1138" y="30" text-anchor="end" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">github</text>
+
+  <rect x="38" y="76" width="748" height="244" rx="12" fill="#181E27" stroke="#343B46"/>
+  <rect x="814" y="76" width="348" height="244" rx="12" fill="#181E27" stroke="#343B46"/>
+
+  <rect x="64" y="105" width="4" height="112" rx="2" fill="#FF9B63"/>
+  <text x="88" y="125" fill="#FFB07A" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700" letter-spacing="2">PROFILE // ANGEL ALFREDO</text>
+  <text x="88" y="174" fill="#F0F3F6" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">Building practical systems.</text>
+  <text x="88" y="207" fill="#B8C7E0" font-family="Arial, Helvetica, sans-serif" font-size="20">Computer Systems Engineering student · UTEL · degree in progress</text>
+  <text x="88" y="240" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">software / automation / linux / infrastructure</text>
+
+  <rect x="88" y="270" width="124" height="28" rx="6" fill="#0D1117" stroke="#343B46"/>
+  <text x="150" y="289" text-anchor="middle" fill="#FF9B63" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">BUILD</text>
+  <rect x="226" y="270" width="124" height="28" rx="6" fill="#0D1117" stroke="#343B46"/>
+  <text x="288" y="289" text-anchor="middle" fill="#B8C7E0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">OPERATE</text>
+  <rect x="364" y="270" width="124" height="28" rx="6" fill="#0D1117" stroke="#343B46"/>
+  <text x="426" y="289" text-anchor="middle" fill="#B8C7E0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">LEARN</text>
+
+  <text x="840" y="110" fill="#FFB07A" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700" letter-spacing="1.5">NODE // PUBLIC PROFILE</text>
+  <path d="M840 126H1136" stroke="#343B46"/>
+
+  <text x="840" y="158" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">display</text>
+  <text x="948" y="158" fill="#F0F3F6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">Angel Alfredo</text>
+
+  <text x="840" y="190" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">lab</text>
+  <text x="948" y="190" fill="#F0F3F6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">PizzaLab</text>
+
+  <text x="840" y="222" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">stack</text>
+  <text x="948" y="222" fill="#F0F3F6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">code + systems</text>
+
+  <text x="840" y="254" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">rule</text>
+  <text x="948" y="254" fill="#FF9B63" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">evidence &gt; claims</text>
+
+  <path d="M840 276H1136" stroke="#343B46"/>
+  <text x="840" y="299" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">static header · no live telemetry</text>
+</svg>
