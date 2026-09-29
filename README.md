@@ -65,7 +65,7 @@ PizzaLab
 ├─ virtualization      Proxmox
 ├─ systems             Linux
 ├─ services            containers + local applications
-├─ network             segmented / remote-access aware
+├─ network             private / remote-access aware
 └─ principle           document what is real, keep sensitive details private
 ```
 
