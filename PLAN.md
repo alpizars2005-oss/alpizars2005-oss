@@ -1,5 +1,13 @@
 # Profile README redesign plan
 
+## Content refresh: 2026-11-10
+
+Refresh the learning section with verified completed credentials, preserving the distinction between a completed course, a professional certificate, and programs still in progress. Google IT Automation completed in October 2026; its public badge was issued in November. English remains a completed B1+ course, not a C1 credential.
+
+Update Job Search Assistant from its public repository and add the public OpenPGP coursework evidence. Preserve the existing appearance, display name, privacy boundaries, and project-ownership distinctions. No private project implementation details are added.
+
+Validation: check referenced public repositories and badge identities, relative assets, README structure, and diff hygiene. Confirm the final remote content before reporting publication.
+
 ## Goal
 
 Redesign the `alpizars2005-oss/alpizars2005-oss` profile README as a compact PizzaLab-inspired technical profile while preserving public privacy and evidence boundaries.
