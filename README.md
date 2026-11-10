@@ -42,11 +42,12 @@ I keep this list intentionally small. A technology appears here because it is us
 
 | Project | Boundary | What it represents |
 | --- | --- | --- |
-| **[Job Search Assistant](https://github.com/alpizars2005-oss/job-search-mx-assistant)** | **Public · owned** | Python desktop/CLI workspace with SQLite, bilingual workflows, fit analysis, exports, privacy boundaries, tests, and Windows/Linux support. |
+| **[Job Search Assistant](https://github.com/alpizars2005-oss/job-search-mx-assistant)** | **Public · owned** | Bilingual Python desktop/CLI workspace with SQLite, explainable fit analysis, opt-in public ATS discovery, local resume preparation, and tests for Windows/Linux. Candidacy submissions are simulated, not sent automatically. |
 | **[Mochi Mochi](https://github.com/alpizars2005-oss/Mochi-Mochi)** | **Public · owned** | Dependency-light HTML/CSS/JavaScript application for menu, ordering, browser-local sales tracking, and CSV/Excel export. |
 | **[Alpizers](https://github.com/alpizars2005-oss/Media-Manager-Releases)** | **Private source · public releases** | Windows media/download application. Development stays private; releases, integrity guidance, and distribution history are public. |
 | **[Ultimate Macro](https://github.com/UltimateMacro/Ultimate-Macro-New-Era)** | **Community project · contributor** | Contributions to an existing open-source/community project, kept separate from project ownership. [Merged upstream PRs](https://github.com/UltimateMacro/Ultimate-Macro-New-Era/pulls?q=is%3Apr+author%3Aalpizars2005-oss+is%3Amerged) and a [public remote-control extension](https://github.com/alpizars2005-oss/ultimate-macro-remote) provide the evidence trail. |
 | **[UCAMP Projects](https://github.com/alpizars2005-oss/Ucamp-Projects)** | **Public · coursework** | Learning history across Python fundamentals, validation, APIs, files, tests, Git/GitHub, visualization, and Scrum. |
+| **[OpenPGP coursework](https://github.com/alpizars2005-oss/coursera-project1c-evidence)** | **Public · coursework** | File signing, public-key verification, and SHA-256 evidence using a historical Apache archive. Academic work, not an AWS deployment or a production-software recommendation. |
 
 More context and project evidence live in my **[portfolio](https://alpizars2005-oss.github.io/aalfredo-dev/)**.
 
@@ -76,11 +77,22 @@ PizzaLab
 **Computer Systems Engineering — UTEL Universidad**  
 *Degree in progress.*
 
-Current public learning evidence includes:
+Completed credentials and coursework:
 
-- **[Google IT Automation with Python — practice repository](https://github.com/alpizars2005-oss/it-cert-automation-practice)** — scripting, Git, service automation, and small lab artifacts.
-- **[UCAMP Projects](https://github.com/alpizars2005-oss/Ucamp-Projects)** — Python, APIs, validation, files, testing, visualization, and Scrum.
-- Ongoing study around **QA, data, networking, cybersecurity, and infrastructure**, represented as learning areas unless a project provides stronger evidence.
+- **[Google IT Automation with Python](https://www.credly.com/badges/5662042f-bdf4-49f3-ace8-5a40f70996b6)**: Professional Certificate completed in October 2026. The linked public badge was issued in November 2026.
+- **Cisco Networking Academy**: [Endpoint Security](https://www.credly.com/badges/2c31d7cf-a971-4dbd-8bad-3a225edd953e) (November 2026), [Networking Devices and Initial Configuration](https://www.credly.com/badges/b485318d-6453-4bc6-9124-afbc16f5c1b9) and [Networking Basics](https://www.credly.com/badges/8c2bd554-dfd9-4965-ad30-05d0ba71692a) (October 2026), and [Introduction to Cybersecurity](https://www.credly.com/badges/529cd478-1e62-4931-b21f-fbd6d73a9971) (September 2026).
+- **University of Colorado System / Coursera**: Basic Cryptography and Programming with Crypto API; Hacking and Patching; Design and Analyze Secure Networked Systems (October 2026); Secure Networked System with Firewall and IDS (November 2026). These are completed courses, not a claim of a completed specialization.
+- **Google Cybersecurity**: Professional Certificate still in progress. Completed coursework includes Tools of the Trade: Linux and SQL and Assets, Threats, and Vulnerabilities (October 2026), plus Connect and Protect: Networks and Network Security (September 2026), alongside earlier foundations and security-risk courses.
+- **EVOLVE DIGITAL, Utel-Cambridge Blended English Program**: B1+ course completed, 90 hours (October 2026).
+- **[I validated and operated data - Outstanding](https://www.credly.com/badges/fe311b4d-fc9b-419d-a34f-d94a17ba67bd)**: Utel Universidad credential (September 2026).
+
+Practice and public evidence:
+
+- **[IT automation practice](https://github.com/alpizars2005-oss/it-cert-automation-practice)**: scripting, Git, service automation, and small lab artifacts.
+- **[UCAMP Projects](https://github.com/alpizars2005-oss/Ucamp-Projects)**: Python, APIs, validation, files, testing, visualization, and Scrum.
+- **[OpenPGP coursework](https://github.com/alpizars2005-oss/coursera-project1c-evidence)**: public signing and verification evidence, with the academic and deployment limits documented.
+
+Coursework and projects support my learning in QA, data, networking, cybersecurity, and infrastructure. They are kept separate from professional work experience.
 
 ---
 
